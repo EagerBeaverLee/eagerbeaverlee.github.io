@@ -1,4 +1,12 @@
-## [스택/큐]올바른 괄호(C)
+---
+title : "[스택/큐]올바른 괄호(C)"
+expert : "Programmers 올바른 괄호"
+
+categories:
+  - Blog
+tags:
+  - Blog
+---
 
 #### 문제 설명
 

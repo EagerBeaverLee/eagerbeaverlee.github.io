@@ -1,6 +1,6 @@
 ---
 title : "[VS_Code]설치 및 환경설정"
-expert : "Mac과 Windows에서 vs code 설치 및 환경설정"
+expert : "Mac과 Windows에서 vs code 설치 및 환경설정"
 
 categories:
   - Blog

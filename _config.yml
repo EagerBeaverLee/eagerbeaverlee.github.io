@@ -31,7 +31,7 @@ future                   : true
 # breadcrumbs            : false # true, false (default)
 words_per_minute         : 200
 comments:
-  provider               : # giscus
+  provider               : giscus
   disqus:
     shortname            : # https://help.disqus.com/customer/portal/articles/466208-what-s-a-shortname-
   discourse:
@@ -48,7 +48,7 @@ comments:
     repo                 : "EagerBeaverLee/chat_DB"
     repo_id              : "R_kgDOKEWezw"
     category_name        : "Announcements"
-    category_id          : # "DIC_kwDOKEWez84CYZ4V"
+    category_id          : "DIC_kwDOKEWez84CYZ4V"
     #discussion_term     : "pathname"
     mapping              : "pathname"
     reactions_enabled    : "1"

@@ -49,7 +49,7 @@ comments:
     category_name        : "Announcements"
     category_id          : "DIC_kwDOKEWez84CYZ4V"
     discussion_term      : "pathname"
-    reactions_enabled    : '1'
+    reactions_enabled    : "1"
     theme                : "preferred_color_scheme"
   staticman:
     branch               : # "master"

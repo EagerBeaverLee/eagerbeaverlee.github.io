@@ -31,7 +31,7 @@ future                   : true
 # breadcrumbs            : false # true, false (default)
 words_per_minute         : 200
 comments:
-  provider               : giscus
+  provider               : # giscus
   disqus:
     shortname            : # https://help.disqus.com/customer/portal/articles/466208-what-s-a-shortname-
   discourse:
@@ -45,12 +45,12 @@ comments:
     theme                : # "github-light" (default), "github-dark"
     issue_term           : # "pathname" (default)
   giscus:
-    repo_id              : "R_kgDOKEWezw"
-    category_name        : "Announcements"
-    category_id          : "DIC_kwDOKEWez84CYZ4V"
-    discussion_term      : "pathname"
-    reactions_enabled    : "1"
-    theme                : "preferred_color_scheme"
+    repo_id              : # "R_kgDOKEWezw"
+    category_name        : # "Announcements"
+    category_id          : # "DIC_kwDOKEWez84CYZ4V"
+    discussion_term      : # "pathname"
+    reactions_enabled    : # "1"
+    theme                : # "preferred_color_scheme"
   staticman:
     branch               : # "master"
     endpoint             : # "https://{your Staticman v3 API}/v3/entry/github/"

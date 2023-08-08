@@ -10,12 +10,12 @@ tags:
 last_modified_at: 2023-08-08T08:06:00-05:00
 ---
 
-#### Mac에서 환경설정
+## Mac에서 환경설정
 
 > https://songacoding.tistory.com/49
 
 
 
-#### Windows에서 환경설정
+## Windows에서 환경설정
 
 > https://rasino.tistory.com/307

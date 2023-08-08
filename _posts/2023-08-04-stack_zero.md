@@ -1,7 +1,8 @@
 ---
 title : "[스택/큐]제로(C)"
 expert : "백준 10773 스택문제"
-
+toc: true
+toc_sticky: true
 categories:
   - Blog
 tags:

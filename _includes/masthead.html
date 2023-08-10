@@ -11,6 +11,10 @@
           {{ site.masthead_title | default: site.title }}
           {% if site.subtitle %}<span class="site-subtitle">{{ site.subtitle }}</span>{% endif %}
         </a>
+        
+        #방문자수
+        <a href="https://hits.seeyoufarm.com"><img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Feagerbeaverlee.github.io&count_bg=%23F59DFF&title_bg=%23555555&icon=opsgenie.svg&icon_color=%23E7E7E7&title=today&edge_flat=false"/></a>
+        
         <ul class="visible-links">
           {%- for link in site.data.navigation.main -%}
             <li class="masthead__menu-item">
